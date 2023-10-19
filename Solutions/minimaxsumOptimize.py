@@ -14,7 +14,6 @@
 
   def miniMaxSum(arr):
       total = 0
-
       min_val = float('inf')
       max_val = float('-inf')
 
